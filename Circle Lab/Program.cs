@@ -41,7 +41,7 @@ namespace Circle_Lab
                 if (answer != "y")
                 {
                     cont = false;
-                }
+                } 
             } while (cont == true);
             Console.WriteLine($"You built {myCount} circles\n");
             Console.WriteLine("Goodbye!");
